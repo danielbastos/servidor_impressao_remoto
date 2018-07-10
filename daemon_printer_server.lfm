@@ -1,0 +1,12 @@
+object PrinterServer: TPrinterServer
+  OldCreateOrder = False
+  OnStart = DataModuleStart
+  OnStop = DataModuleStop
+  OnPause = DataModulePause
+  OnContinue = DataModuleContinue
+  Height = 150
+  HorizontalOffset = 680
+  VerticalOffset = 130
+  Width = 286
+  PPI = 96
+end

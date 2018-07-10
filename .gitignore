@@ -1,0 +1,8 @@
+*.ppu
+*.o
+*.compiled
+*.dbg
+*.or
+lib/*
+/backup
+/PrinterHttpServer.exe
